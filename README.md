@@ -1,4 +1,4 @@
-# Project Requirements and Setup Guide
+# Project Requirements and Setup Guide by Yash
 
 This README provides a comprehensive guide to the requirements and setup process for the project, including solutions to common errors encountered during development.
 
